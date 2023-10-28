@@ -17,7 +17,7 @@ To check out the monitoring tool, [click here](https://gitup.dev/).
 
 ![GitTrend](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xod3llt8aig5w9uz9zrs.gif)
 
----
+&nbsp;
 
 ## You need to know when you are trending
 
@@ -29,6 +29,8 @@ GitHub will not tell you this.
 Hell, you can’t even use GitHub GraphQL to check the trending list.
 
 I decided to build a simple solution that can help everybody to know when they are trending.
+
+![wow](https://github.com/github-20k/blog/assets/100117126/2eab31aa-f032-4c3c-9e52-c04f1d6c7e5e)
 
 &nbsp;
 
